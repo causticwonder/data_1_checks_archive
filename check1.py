@@ -1,5 +1,6 @@
 #print "Hello World!" prompt
-print('Hello world!')
+message = 'Hello World!'
+print(message)
 
 #create list populate with several values and print one value
 Pets = ['Frank', 'Lilly', 'Hank', 'Tina', 'CiCi']
