@@ -12,4 +12,4 @@ print(my_pet_dictionary['cat'])
 
 #create tuple with 4 values and print one value
 ages = (41, 38, 12, 11)
-print(3)
+print(ages[3])
